@@ -36,7 +36,7 @@
 |PlayerBonus|閒龍寶|11030|
 |BankerNatural|莊例牌|11031|
 |PlayerNatural|閒例牌|11032|
-
+|Lucky6|幸運6|11033|
 
 ## **Sicbo**
 
