@@ -55,3 +55,6 @@
 |ChangeSeatFail|轉桌失敗|148|
 |SeamlessAgentSignatureError|單一錢包代理TOKEN驗證錯誤|149|
 |SeamlessAgentConnectionError|單一錢包代理連線錯誤|150|
+|PreviousBettingBusy|前次下注忙碌中|151|
+|MutuallyExclusiveError|互斥注區錯誤|152|
+|BetAmountNotInteger|下注金額不為整數|153|
