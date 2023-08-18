@@ -586,6 +586,7 @@ Request
 |&emsp;&emsp;&emsp;&emsp;ko|string|韓文|
 |&emsp;&emsp;&emsp;&emsp;ja|string|日文|
 |&emsp;&emsp;&emsp;&emsp;vn|string|越南文|
+|&emsp;&emsp;&emsp;&emsp;pt|string|葡萄牙文|
 |&emsp;&emsp;d| bool     | 公告是否關閉 |
 |&emsp;&emsp;st  | long   | 開始時間 (UnixTimeMs)    |
 |&emsp;&emsp;et| long   | 結束時間 (UnixTimeMs)    |
